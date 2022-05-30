@@ -1,6 +1,5 @@
-# sample
+# Splitter
 
-A new Flutter project.
 
 ## Getting Started
 
